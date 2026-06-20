@@ -33,7 +33,7 @@ I care about building automation that's **actually production-aware**: rate limi
 - Solved Google OAuth2 token expiry by moving an app from Testing to Production mode
 - Worked across multiple LLM providers (Groq, Mistral, Gemini) based on rate-limit and integration constraints, not just whichever was easiest
 
-**Where I draw the line:** I've also turned down automating workflows that touch regulated/compliance-adjacent operations without proper sign-off — knowing what *not* to automate is part of the job in a licensed financial company.
+**Where I draw the line:** I've also turned down automating workflows that touch regulated/compliance-adjacent operations without proper sign-off — knowing what *not* to automate is part of the job in a company.
 
 ---
 
